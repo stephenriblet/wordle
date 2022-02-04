@@ -1,0 +1,10 @@
+spring:
+  main:
+    banner-mode: "off"
+
+server:
+  error:
+    include-exception: true
+
+  servlet:
+    context-path: /wordle
